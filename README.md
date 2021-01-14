@@ -1,2 +1,5 @@
 # programming-logic
- Programming logic study using python
+
+Project made for daily study of programming logic. Using python language.
+
+Made with @GabrielByte
