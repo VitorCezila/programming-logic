@@ -1,4 +1,4 @@
-# 003: Create a program to add two numbers
+# 003: Create a program to add two numbers.
 
 n1 = int(input('Type a number '))
 n2 = int(input('Another one '))
