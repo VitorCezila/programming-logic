@@ -5,6 +5,9 @@ Make a program that reads the name of four students and show the sorted order.
 
 from random import shuffle
 
-students = "Gabriel Bu Vitor Cezila".split()
-shuffle(students)
-print(f"The order of presentations is {students}")
+student1 = input("What's the name of the first student?: ")
+student2 = input("And of the second one? ")
+student3 = input("And of the third one? ")
+listS = [student1, student2, student3]
+shuffle(listS)
+print(f"The order of presentations is {listS}")
